@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aquarius App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Iniciar Sesión</string>
+    <string name="log_in_descrption">Más de 20 años generando confianza</string>
+    <string name="name">Nombres</string>
+    <string name="area">area</string>
+    <string name="number_phone">Celular</string>
+    <string name="employees">Empleados</string>
+    <string name="create_user">Crear Usuario</string>
+    <string name="select_area">Seleccionar Área</string>
+    <string name="edit_employee">Editar Empleado</string>
+    <string name="create_employee">Crear Empleado</string>
+    <string name="save">Guardar</string>
+</resources>
