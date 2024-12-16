@@ -7,6 +7,9 @@ Es parte de una solución completa que incluye un backend, una aplicación web y
 Breve video que muestra cómo funciona la aplicación:
 
 
+https://github.com/user-attachments/assets/d2ce0b91-285c-4e9e-80bf-0c2304ca705a
+
+
 
 ## Requisitos
 
